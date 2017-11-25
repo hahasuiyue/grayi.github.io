@@ -143,7 +143,7 @@
                 _set.show().animate({opacity: 1}, 1000);
             });
         } else {
-            _this.text('No more item to display');
+            _this.text('没有更多内容了');
         }
         return false;
 
